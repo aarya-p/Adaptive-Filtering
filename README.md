@@ -1,6 +1,6 @@
 # Wind Noise Cancellation using Hybrid Adaptive Filtering 
 
-This repository contains the MATLAB implementation and documentation for our mini-project titled **"Wind Noise Cancellation using Hybrid Adaptive Filtering"**, developed as part of the 6th semester Electronics and Communication Engineering curriculum at **Ramaiah Institute of Technology**, Bangalore.
+This repository contains the MATLAB implementation and documentation for our mini-project titled **"Wind Noise Cancellation using Hybrid Adaptive Filtering"**, developed as a part of the 6th semester Electronics and Communication Engineering curriculum at **Ramaiah Institute of Technology**, Bangalore.
 
 ## Project Overview
 
