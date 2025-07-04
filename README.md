@@ -46,7 +46,7 @@ The hybrid model dynamically switches between LMS and RLS based on real-time SNR
 
 > The hybrid filter consistently outperformed LMS and RLS individually, with better SNR, faster convergence, and efficient computation.
 
-## 🧩 Future Work
+## Future Work
 
 - Adaptive tuning of LMS/RLS parameters
 - Hardware implementation on FPGA/DSP
